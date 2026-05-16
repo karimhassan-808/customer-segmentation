@@ -35,7 +35,7 @@ The elbow plot showed a sharp drop in inertia between `k=2` and `k=4`, then dimi
 
 ### Silhouette Analysis
 - **k=4**: Produced a balanced silhouette distribution with an average score around **0.58**.
-- **k=5**: Produced slightly lower silhouette stability with an average score around **0.58**.
+- **k=5**: Produced slightly lower silhouette stability with an average score around **0.57**.
 
 ![Silhouette Plot](plots/silhouette.png)
 
